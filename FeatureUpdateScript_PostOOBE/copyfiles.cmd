@@ -1,0 +1,1 @@
+copy %~dp0PostOOBE.ps1 C:\Util\Logs\Win11IPU
