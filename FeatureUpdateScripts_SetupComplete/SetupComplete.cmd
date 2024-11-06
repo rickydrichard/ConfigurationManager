@@ -1,0 +1,1 @@
+PowerShell.exe -ExecutionPolicy Bypass -File C:\Util\Logs\Win11IPU\PostOOBE.ps1 -WindowStyle Hidden
